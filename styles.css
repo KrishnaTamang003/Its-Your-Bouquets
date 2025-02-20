@@ -140,7 +140,7 @@
   
   .hero p {
     font-size: clamp(1rem, 3vw, 1.3rem); /* Responsive font size */
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     font-weight: 700;
     max-width: 700px;
     margin: 0 auto 2rem;
